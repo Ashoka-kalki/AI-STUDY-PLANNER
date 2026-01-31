@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI-STUDY-PLANNER/static/css/main.1a18d212.css",
+    "main.js": "/AI-STUDY-PLANNER/static/js/main.25ef2246.js",
+    "index.html": "/AI-STUDY-PLANNER/index.html",
+    "main.1a18d212.css.map": "/AI-STUDY-PLANNER/static/css/main.1a18d212.css.map",
+    "main.25ef2246.js.map": "/AI-STUDY-PLANNER/static/js/main.25ef2246.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a18d212.css",
+    "static/js/main.25ef2246.js"
+  ]
+}
