@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ashoka-kalki/AI-STUDY-PLANNER.git/static/css/main.1a18d212.css",
-    "main.js": "/Ashoka-kalki/AI-STUDY-PLANNER.git/static/js/main.25ef2246.js",
-    "index.html": "/Ashoka-kalki/AI-STUDY-PLANNER.git/index.html",
-    "main.1a18d212.css.map": "/Ashoka-kalki/AI-STUDY-PLANNER.git/static/css/main.1a18d212.css.map",
-    "main.25ef2246.js.map": "/Ashoka-kalki/AI-STUDY-PLANNER.git/static/js/main.25ef2246.js.map"
+    "main.css": "/AI-STUDY-PLANNER/static/css/main.1a18d212.css",
+    "main.js": "/AI-STUDY-PLANNER/static/js/main.25ef2246.js",
+    "index.html": "/AI-STUDY-PLANNER/index.html",
+    "main.1a18d212.css.map": "/AI-STUDY-PLANNER/static/css/main.1a18d212.css.map",
+    "main.25ef2246.js.map": "/AI-STUDY-PLANNER/static/js/main.25ef2246.js.map"
   },
   "entrypoints": [
     "static/css/main.1a18d212.css",
